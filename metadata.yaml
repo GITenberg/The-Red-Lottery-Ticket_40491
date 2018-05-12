@@ -1,0 +1,32 @@
+_repo: The-Red-Lottery-Ticket_40491
+_version: 0.1.0
+alternative_title: Le billet rouge. English
+covers:
+- cover_type: archival
+  image_path: 40491-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Du Boisgobey, Fortuné
+    aliases:
+    - Boisgobey, Fortuné Du
+    - Du Boisgobey, Fortune Hippolyte Auguste
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '7579'
+    url: http://www.gutenberg.org/2009/agents/7579
+    wikipedia: http://en.wikipedia.org/wiki/Fortun%C3%A9_du_Boisgobey
+description: ''
+gutenberg_issued: '2012-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PQ'
+title: The Red Lottery Ticket
+url: http://www.gutenberg.org/ebooks/40491
